@@ -1,0 +1,55 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+html{
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+}
+*,*::after,*::before{
+	box-sizing: inherit;
+}
+.clearfix::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+header,footer{
+	border: 1px solid 	#FFFF00;
+	height: 150px;
+	margin: 1% 0;
+}
+#center{
+	width: 1500px;
+	margin: auto;
+}
+aside{
+	width: 20%;
+	min-height: 500px;
+	border: 1px solid 	#FFFF00;
+	float: left;	
+}
+main{
+	border: 1px solid 	#FFFF00;
+	width: 79%;
+	float: left;
+	margin:0 0 0 1%;
+	min-height: 500px;
+}
+@media only screen and (min-width: 360px) {
+	body,input,select{font-size: 15.5px;}
+}
+@media only screen and (min-width: 400px) {
+	body,input,select{font-size: 17.5px;}
+}
+@media only screen and (min-width: 480px) {
+	body,input,select{font-size: 21px;}
+}
+@media only screen and (min-width: 600px) {
+	body,input,select{font-size: 26.25px;}
+}
+@media only screen and (min-width: 640px) {
+	body,input,select{font-size: 28px;}
+}
