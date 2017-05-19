@@ -1,0 +1,65 @@
+{
+	box-sizing: border-box;
+}
+.clearfix::after{
+	content: "";
+	display: table;
+	clear: both;
+}
+ul{
+	padding: 0;
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+body{
+	background: url(../img/timg.jpg)  center top fixed;
+	min-height: 1200px;
+	color: #fff;
+}
+.wrapper{
+	max-width: 1200px;
+	padding: 20px;
+	margin: auto;
+}
+header{
+	position: relative;
+	margin: 30px 0px;
+}
+
+.logo h1{
+	display: none;
+}
+.logo img{
+	width: 200px;
+	height: auto;
+}
+header h2{
+	margin: 50px 0;
+	font-size: 30px;
+}
+p a{
+	border-bottom:1px dashed #fff;
+	padding-bottom: 4px;
+	transition: border .5s;
+}
+p a:hover{
+	border-bottom:1px solid #fff;
+}
+
+
+#goTop{
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	border: 1px solid #fff;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	font-size: 0.8em;
+	color: #fff;
+}
