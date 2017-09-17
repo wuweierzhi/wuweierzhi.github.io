@@ -1,0 +1,16 @@
+body{
+	background: url(../img/02.jpg) no-repeat ;
+	background-size: 100%;
+	color:#fff;
+}
+h1{
+	font-size: 20px;
+	text-decoration: underline;
+	color: black;
+}
+p{
+	font-size:14px;
+	text-indent: 2em;
+	line-height: 1.5em;
+	color: black;
+}

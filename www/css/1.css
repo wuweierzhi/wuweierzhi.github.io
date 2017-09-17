@@ -1,0 +1,14 @@
+body{
+	background: url(../img/timg.jpg) no-repeat ;
+	background-size: 100%;
+	color:#fff;
+}
+h1{
+	font-size: 20px;
+	text-decoration: underline;
+}
+p{
+	font-size:14px;
+	text-indent: 2em;
+	line-height: 1.5em;
+}
