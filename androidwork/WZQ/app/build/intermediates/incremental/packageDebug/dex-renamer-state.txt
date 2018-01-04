@@ -1,0 +1,7 @@
+#Wed Jan 03 10:26:09 CST 2018
+base.0=C\:\\android_work\\WZQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_815c562065900323200492a658249c7bd655b4f9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\android_work\\WZQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_537c78847062ac3aa9d271a5bc7c31c74d89d681\\classes.dex
+base.1=C\:\\android_work\\WZQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_537c78847062ac3aa9d271a5bc7c31c74d89d681
+file.0=C\:\\android_work\\WZQ\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_815c562065900323200492a658249c7bd655b4f9\\classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\android_work\\WZQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\timg.jpg",
+        "source": "C:\\android_work\\WZQ\\app\\src\\main\\res\\drawable-xxhdpi\\timg.jpg"
+    },
+    {
+        "merged": "C:\\android_work\\WZQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wyf.jpg",
+        "source": "C:\\android_work\\WZQ\\app\\src\\main\\res\\drawable-xxhdpi\\wyf.jpg"
+    },
+    {
+        "merged": "C:\\android_work\\WZQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg.jpg",
+        "source": "C:\\android_work\\WZQ\\app\\src\\main\\res\\drawable-xxhdpi\\bg.jpg"
+    }
+]

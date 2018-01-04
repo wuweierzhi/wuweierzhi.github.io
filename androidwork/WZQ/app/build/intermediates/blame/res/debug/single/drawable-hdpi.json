@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\android_work\\WZQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\android_work\\WZQ\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_work\\WZQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stone_w2.png",
+        "source": "C:\\android_work\\WZQ\\app\\src\\main\\res\\drawable-hdpi\\stone_w2.png"
+    },
+    {
+        "merged": "C:\\android_work\\WZQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stone_b1.png",
+        "source": "C:\\android_work\\WZQ\\app\\src\\main\\res\\drawable-hdpi\\stone_b1.png"
+    }
+]
