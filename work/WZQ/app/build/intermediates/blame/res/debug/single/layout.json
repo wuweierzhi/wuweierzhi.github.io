@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\android_work\\WZQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first.xml",
+        "source": "C:\\android_work\\WZQ\\app\\src\\main\\res\\layout\\first.xml"
+    },
+    {
+        "merged": "C:\\android_work\\WZQ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\android_work\\WZQ\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

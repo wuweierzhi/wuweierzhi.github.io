@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\android_work\WZQ\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2bf66d16917f362c86bb02bc2c053b5a2b2a0a5a">
+        <dex dex="C:\android_work\WZQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_815c562065900323200492a658249c7bd655b4f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_work\WZQ\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2aacb21438214fe22548e383cd00c5d59550a56b">
+        <dex dex="C:\android_work\WZQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_537c78847062ac3aa9d271a5bc7c31c74d89d681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\android_work\WZQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134\classes.dex" />
+    </item>
+
+</items>
